@@ -3,7 +3,7 @@
 set -ex
 
 export IMAGE_FAMILY="pytorch-1-0-cu92-experimental"
-export ZONE="us-west2-b"
+export ZONE="northamerica-northeast1-b"
 export INSTANCE_NAME="fastai-instance"
 export INSTANCE_TYPE="n1-highmem-8"
 
