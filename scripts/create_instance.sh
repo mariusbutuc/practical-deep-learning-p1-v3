@@ -2,7 +2,7 @@
 
 set -ex
 
-export IMAGE_FAMILY="pytorch-1-0-cu92-experimental"
+export IMAGE_FAMILY="pytorch-latest-gpu"
 export ZONE="northamerica-northeast1-b"
 export INSTANCE_NAME="fastai-instance"
 export INSTANCE_TYPE="n1-highmem-8"
